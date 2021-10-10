@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MohamedKaramEldin
 - 👀 I’m interested in bioinformatics
 - 🌱 I’m currently learning data analysis
-- 💞️ I’m looking to collaborate on developing bioinformatics libraries
+- 💞️ I’m looking to collaborate on developing bioinformatics tools
 - 📫 You can reach me on mohamedkaram58@gmail.com
 
 <!---
